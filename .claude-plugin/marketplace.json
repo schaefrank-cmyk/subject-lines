@@ -1,0 +1,13 @@
+{
+  "name": "endurance-subject-lines",
+  "owner": {
+    "name": "schaefrank-cmyk"
+  },
+  "plugins": [
+    {
+      "name": "endurance-subject-lines",
+      "source": "./",
+      "description": "Email subject lines for endurance events, generated from a brief with preheaders and reasoning."
+    }
+  ]
+}

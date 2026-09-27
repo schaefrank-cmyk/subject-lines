@@ -1,0 +1,13 @@
+{
+  "name": "endurance-subject-lines",
+  "description": "Writes email subject lines for endurance events — running races, triathlons, sportives, obstacle races — from a short brief, with preheaders and the reasoning behind each line.",
+  "version": "0.1.0",
+  "keywords": [
+    "email",
+    "subject-lines",
+    "marketing",
+    "running",
+    "endurance",
+    "events"
+  ]
+}
